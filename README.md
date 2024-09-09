@@ -44,6 +44,70 @@ Ao clicar em "Criar", ele não apenas criará o grupo de recursos como exibirá 
 
 ![image](https://github.com/user-attachments/assets/99633138-8d7b-4217-98ce-cbdcd5871fc7)
 
+Ao acessar o grupo de recursos, pode-se ver o log de atividades:
+
+![image](https://github.com/user-attachments/assets/73de3e4a-45e0-4403-ae3d-4204893e592d)
+
+Acessando a opção IAM, que define controle de acesso por usuário:
+
+![image](https://github.com/user-attachments/assets/5e4dd94f-be26-4ba6-87c2-7ed347baf42c)
+
+Acessando o visualizador de recursos, onde é possível ver um esquema gráfico dos recursos que compõem o grupo.
+
+![image](https://github.com/user-attachments/assets/aa4dc960-8742-49b9-8546-4fc59c83685d)
+
+Em Eventos, é possível desenhar automatizações dentro do grupo de recursos.
+
+![image](https://github.com/user-attachments/assets/9e64fd79-3d05-4ae2-ad86-2a8e52dfff9f)
+
+## Criando uma rede virtual
+
+Acessando o recurso rede virtual.
+
+![image](https://github.com/user-attachments/assets/d81a715c-5aba-405b-a495-89761da68e7e)
+
+Clicando em Criar.
+
+![image](https://github.com/user-attachments/assets/42cb354b-ecc2-4445-b534-dc935c3d1af0)
+
+Definindo o nome da rede e em que região estará hospedada.
+
+![image](https://github.com/user-attachments/assets/db54a24a-a04f-4313-a6eb-2761e906f153)
+
+Ao clicar em criar, um popup surgirá informando que o recurso está sendo criado.
+
+![image](https.//github.com/user-attachments/assets/8a697d05-be64-49e9-9936-a0f42a6b3da5)
+
+![image](https://github.com/user-attachments/assets/3b2178e6-d827-4720-a19f-f0415dbc3dfb)
+
+Clicamos em ir para o recurso.
+
+![image](https.//github.com/user-attachments/assets/769f993c-7c87-4721-8ced-494bfcf029b7)
+
+Acessando agora o grupo de recursos, é possível localizar a rede virtual criada.
+
+![image](https://github.com/user-attachments/assets/5b755e8c-71bb-44d5-bfba-71ecfc34c335)
+
+![image](https://github.com/user-attachments/assets/74cdae3e-f684-450a-bfb7-43c0d1878d9e)
+
+E tem-se acesso ao log de atividades com o registro do que foi realizado.
+
+![image](https://github.com/user-attachments/assets/5dfc5de4-d518-4e7c-9e1e-0b2b11503d98)
+
+Acessando implantações.
+
+![image](https://github.com/user-attachments/assets/4c11a7fa-9e0b-461c-8a1b-8e90e3d7ccf4)
+
+Acessando o modelo (template).
+
+![image](https://github.com/user-attachments/assets/a560bc6b-1252-426e-a0d4-ca07461bebc9)
+
+![image](https://github.com/user-attachments/assets/5593c654-99db-4152-9800-04aa2ee434fd)
+
+
+
+
+
 
 
 
